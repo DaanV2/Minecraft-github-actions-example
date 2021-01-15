@@ -30,6 +30,7 @@ jobs:
 
       # Creates the release page
       - name: Create Release
+        continue-on-error: true
         id: create_release
         uses: actions/create-release@v1
         env:
