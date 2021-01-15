@@ -27,7 +27,7 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Zipping folder
-        run: zip -r world.mcworld -j "Minecraft World Example/"
+        run: cd "Minecraft World Example"; zip -r ../world.mcworld *
 
       - name: Create Release
         id: create_release
