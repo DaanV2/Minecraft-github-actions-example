@@ -6,6 +6,7 @@
 Example file: [/.github/workflows/create-world-on-create-tag.yml](../.github/workflows/create-world-on-create-tag.yml)
 
 This work flow triggers whenever a tag is created. that means whenever your create a release or use the following git commands:
+However when a release is manually created this workflow will error as it cannot override the existing one.
 
 ```Csharp
 // Creates a new tag: v0.2 with the title 'v0.2', change this to fit your version numbering, but it needs to start with the letter 'v'
