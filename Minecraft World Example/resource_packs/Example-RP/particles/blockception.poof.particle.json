@@ -8,7 +8,6 @@
         "texture": "textures/particle/particles"
       }
     },
-    "components": {
-    }
+    "components": {}
   }
 }

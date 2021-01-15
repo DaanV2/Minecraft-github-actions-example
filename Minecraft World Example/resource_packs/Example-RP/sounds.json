@@ -1,20 +1,14 @@
 {
-  "block_sounds" : {     
+  "block_sounds": {},
+  "entity_sounds": {
+    "defaults": {},
+    "entities": {}
   },
-  "entity_sounds" : {
-     "defaults" : {        
-     },
-     "entities" : {        
-     }
+  "individual_event_sounds": {
+    "events": {}
   },
-  "individual_event_sounds" : {
-     "events" : {        
-     }
-  },
-  "interactive_sounds" : {
-     "block_sounds" : {        
-     },
-     "entity_sounds" : {        
-     }
+  "interactive_sounds": {
+    "block_sounds": {},
+    "entity_sounds": {}
   }
 }

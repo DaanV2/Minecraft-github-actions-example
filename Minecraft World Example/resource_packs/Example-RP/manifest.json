@@ -5,7 +5,7 @@
     "name": "Vanilla Resource Pack",
     "uuid": "889b1ca1-d7d6-4598-a939-ff2ed10fb8f3",
     "version": [1, 0, 0],
-    "min_engine_version": [ 1, 16, 200 ]
+    "min_engine_version": [1, 16, 200]
   },
   "modules": [
     {
