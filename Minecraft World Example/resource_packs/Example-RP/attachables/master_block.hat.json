@@ -15,7 +15,7 @@
         "default": "geometry.example"
       },
       "scripts": {},
-      "render_controllers": [ "controller.render.example" ]
+      "render_controllers": ["controller.render.example"]
     }
   }
 }

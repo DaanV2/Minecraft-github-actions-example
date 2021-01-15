@@ -3,10 +3,7 @@
   "render_controllers": {
     "controller.render.sheep": {
       "geometry": "Geometry.default",
-      "materials": [
-        { "*": "Material.default" }, 
-        { "Alpha*": "Material.alpha" }
-      ],
+      "materials": [{ "*": "Material.default" }, { "Alpha*": "Material.alpha" }],
       "textures": ["Texture.default"]
     }
   }

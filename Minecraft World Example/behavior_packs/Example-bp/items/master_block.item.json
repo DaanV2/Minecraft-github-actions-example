@@ -4,7 +4,6 @@
     "description": {
       "identifier": "master_block"
     },
-    "components": {
-    }
+    "components": {}
   }
 }
