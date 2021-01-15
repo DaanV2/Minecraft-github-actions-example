@@ -1,0 +1,13 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.sheep": {
+      "geometry": "Geometry.default",
+      "materials": [
+        { "*": "Material.default" }, 
+        { "Alpha*": "Material.alpha" }
+      ],
+      "textures": ["Texture.default"]
+    }
+  }
+}

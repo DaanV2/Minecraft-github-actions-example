@@ -1,0 +1,12 @@
+{
+  "format_version": "1.12",
+  "minecraft:<type>": {
+    "description": {
+    	"identifier": "blockception:master_block"
+    },
+
+		"result": {
+      "item": "minecraft:brewing_stand"
+    }
+  }
+}

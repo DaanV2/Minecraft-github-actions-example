@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"BC-MC.useDiagnosticsLanguages": true,
+		"BC-MC.useDiagnosticsMcfunctions": true,
+		"BC-MC.useEducationContent": false,
+		"[bc-minecraft-language]": {
+
+		},
+		"[bc-minecraft-mcfunction]": {
+
+		},
+		"[bc-minecraft-molang]": {
+			
+		}
+	}
+}
